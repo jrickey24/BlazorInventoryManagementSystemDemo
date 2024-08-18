@@ -1,0 +1,22 @@
+# .gitignore for a Blazor app in .NET 8
+
+# Visual Studio cache and temporary files
+*.vshost.exe
+*.pdb
+*.suo
+*.user
+*.ipynb
+*.tmp
+*.log
+.vs/
+
+
+# Generated files
+bin/
+obj/
+
+# Package manager files
+packages/
+
+# Editor-specific files
+.DS_Store
